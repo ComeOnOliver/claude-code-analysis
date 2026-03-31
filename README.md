@@ -1,3 +1,5 @@
+**[English](README.md)** | **[中文](README.zh-CN.md)**
+
 # Claude Code Source Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
