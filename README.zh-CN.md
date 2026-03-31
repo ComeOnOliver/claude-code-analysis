@@ -3,7 +3,7 @@
 # Claude Code 源码分析
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-DOCUMENTATION.md-green.svg)](DOCUMENTATION.md)
+[![Documentation](https://img.shields.io/badge/docs-DOCUMENTATION.md-green.svg)](DOCUMENTATION.zh-CN.md)
 [![English](https://img.shields.io/badge/language-English-brightgreen.svg)](README.md)
 [![中文](https://img.shields.io/badge/语言-中文-orange.svg)](README.zh-CN.md)
 
@@ -73,6 +73,8 @@ open DOCUMENTATION.md
 
 ---
 
-📖 **[阅读完整分析 →](DOCUMENTATION.md)**
+📖 **[阅读完整分析（中文） →](DOCUMENTATION.zh-CN.md)**
+
+📖 **[阅读完整分析（English） →](DOCUMENTATION.md)**
 
 🇺🇸 **[English Version →](README.md)**

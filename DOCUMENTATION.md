@@ -1,3 +1,5 @@
+**[English](DOCUMENTATION.md)** | **[中文](DOCUMENTATION.zh-CN.md)**
+
 # Claude Code — Source Code Documentation & Analysis
 
 > **Claude Code** is Anthropic's official CLI for Claude. This document provides a comprehensive reverse-engineering analysis of its source code architecture, modules, and internal design patterns.
